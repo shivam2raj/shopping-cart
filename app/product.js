@@ -1,49 +1,49 @@
 
 export const Products = [
     {
-        id:1,
+        id:0,
         name:'Bird',
         price:50,
         imageURL:"/products/bird.png"
     },
     {
-        id:2,
+        id:1,
         name:'Butterfly',
         price:30,
         imageURL:'/products/butterfly.png'
     },
     {
-        id:3,
+        id:2,
         name:'Cat',
         price:200,
         imageURL:'/products/cat.png'
     },
     {
-        id:4,
+        id:3,
         name:'Orange',
         price:20,
         imageURL:'/products/fruit.png'
     },
     {
-        id:5,
+        id:4,
         name:'Guava',
         price:10,
         imageURL:'/products/fruit2.png'
     },
     {
-        id:6,
+        id:5,
         name:'Hen',
         price:45,
         imageURL:'/products/hen.png'
     },
     {
-        id:7,
+        id:6,
         name:'Panther',
         price:2000,
         imageURL:'/products/panther.png'
     },
     {
-        id:8,
+        id:7,
         name:'Plank of Wood',
         price:35,
         imageURL:'/products/plank.png'
